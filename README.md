@@ -16,5 +16,5 @@ After purchasing softwares from Staro Hub, you need to run Staro Buyer in order 
 
 4. Set environment variable "JAVA_HOME" to folder containing Java SE Runtime 8.
 
-5. If you running Unix, execute [ starobuyer.sh ]. If you running Windows, execute [ starobuyer.bat ].
+5. If you are running Unix, execute [ starobuyer.sh ]. If you are running Windows, execute [ starobuyer.bat ].
 
